@@ -1,3 +1,20 @@
+#Project name
+GIT SEARCH
+
+#Description
+ This a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. 
+
+#Technologies used
+1.Javascript
+2.html5 and css
+3.bootstrap 
+4.Angular6
+
+#Specs
+1.Its an application where you can view other users repositories and comment
+2.you can fork repositories into your own github account
+3.you can view users profile and even communicate with them through their emails
+
 # Git
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
