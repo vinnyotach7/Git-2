@@ -8,9 +8,9 @@ GIT SEARCH
 
 #Technologies used
 
-1.Javascript
+1.Javascript -
 2.html5 and css
-3.bootstrap 
+3.bootstrap -Bootstrap is a free front-end framework for faster and easier web development, i used bootstrap for various reasons but mostly for; to make my page responsive and also browser compatibility.
 4.Angular6
 
 #Specs
