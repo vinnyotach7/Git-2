@@ -1,19 +1,19 @@
-#Project name
+# Project name
 
 GIT SEARCH
 
-#Description
+# Description
 
  This a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. 
 
-#Technologies used
+# Technologies used
 
 1.Javascript -
 2.html5 and css
 3.bootstrap -Bootstrap is a free front-end framework for faster and easier web development, i used bootstrap for various reasons but mostly for; to make my page responsive and also browser compatibility.
 4.Angular6
 
-#Specs
+# Specs
 1.Its an application where you can view other users repositories and comment
 2.you can fork repositories into your own github account
 3.you can view users profile and even communicate with them through their emails
